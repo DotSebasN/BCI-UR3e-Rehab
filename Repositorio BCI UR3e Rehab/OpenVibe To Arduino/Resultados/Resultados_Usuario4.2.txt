@@ -1,0 +1,10 @@
+Resultados del Experimento:	Usuario 7.2
+Estimulos Generados:	16
+Adelante - Atras:	8
+Pronacion - Supinacion:	8
+
+Estimulo		Aciertos	Clasificacion
+Adelante - Atras:	4		50
+Pronacion - Supinacion:	8		75
+
+Clasificación de la Prueba:	75
